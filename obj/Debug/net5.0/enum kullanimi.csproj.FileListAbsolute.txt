@@ -1,0 +1,16 @@
+C:\Users\Mehmet\Desktop\Pratikler\enum kullanimi\bin\Debug\net5.0\enum kullanimi.exe
+C:\Users\Mehmet\Desktop\Pratikler\enum kullanimi\bin\Debug\net5.0\enum kullanimi.deps.json
+C:\Users\Mehmet\Desktop\Pratikler\enum kullanimi\bin\Debug\net5.0\enum kullanimi.runtimeconfig.json
+C:\Users\Mehmet\Desktop\Pratikler\enum kullanimi\bin\Debug\net5.0\enum kullanimi.runtimeconfig.dev.json
+C:\Users\Mehmet\Desktop\Pratikler\enum kullanimi\bin\Debug\net5.0\enum kullanimi.dll
+C:\Users\Mehmet\Desktop\Pratikler\enum kullanimi\bin\Debug\net5.0\ref\enum kullanimi.dll
+C:\Users\Mehmet\Desktop\Pratikler\enum kullanimi\bin\Debug\net5.0\enum kullanimi.pdb
+C:\Users\Mehmet\Desktop\Pratikler\enum kullanimi\obj\Debug\net5.0\enum kullanimi.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\Pratikler\enum kullanimi\obj\Debug\net5.0\enum kullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\Pratikler\enum kullanimi\obj\Debug\net5.0\enum kullanimi.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\Pratikler\enum kullanimi\obj\Debug\net5.0\enum kullanimi.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\Pratikler\enum kullanimi\obj\Debug\net5.0\enum kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Pratikler\enum kullanimi\obj\Debug\net5.0\enum kullanimi.dll
+C:\Users\Mehmet\Desktop\Pratikler\enum kullanimi\obj\Debug\net5.0\ref\enum kullanimi.dll
+C:\Users\Mehmet\Desktop\Pratikler\enum kullanimi\obj\Debug\net5.0\enum kullanimi.pdb
+C:\Users\Mehmet\Desktop\Pratikler\enum kullanimi\obj\Debug\net5.0\enum kullanimi.genruntimeconfig.cache
